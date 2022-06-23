@@ -1,0 +1,173 @@
+html {
+    height: 100%; 
+    
+}
+
+body {
+    font-family: sans-serif;
+    
+    margin: 0;
+    padding: 0;
+    
+    height: 100%;
+    
+}
+
+.body-home {
+   background-image: url('images/background%20image%201.jpg');
+   background-position: center;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+    
+
+   
+}
+
+.body-meals {
+  background-image: url('images/background%20image%202.jpg');
+   background-position: center;
+   background-attachment: fixed;
+   background-repeat: no-repeat;  
+    
+}
+
+/*======== HEADER ========*/
+.header {
+    background-color: #1a1a1a;
+    
+    width: 50%;
+   
+    top: 0;
+    text-align: center;
+    
+
+    
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+  
+    
+}
+
+.header i {
+    float: left;
+    padding: 17px 0px 0px 17px;
+}
+
+.header img {
+    width: 200px;
+    padding-top: 14px;
+    padding-right: 25px;
+}
+
+
+/*======== HOME PAGE ========*/
+
+#home-logo-img {
+    width: 50px;
+    display: block;
+    margin: auto;
+    padding: 25px 10px 10px 10px;
+}
+
+#home-logo-text {
+   width: 250px;
+    display: block;
+    margin: auto;
+    padding: 25px;
+}
+
+
+/*======== HOME PAGE MENU ========*/
+.home-menu-item {
+    text-decoration: none;
+    text-transform: uppercase;
+    
+    color: #1a1a1a;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid #1a1a1a;
+    
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 20%;
+    
+}
+
+/*======== MEALS PAGE ========*/
+#meals {
+   padding-top: 0px;
+}
+
+
+
+/*======== MEALS PAGE MENU ========*/
+
+.meals-list a {
+  text-decoration: none;  
+    color: #1a1a1a;
+    text-align:left;
+    border: 2px solid #1a1a1a;
+    border-style:outset;
+    
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 25%;
+    
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+   
+      
+}
+
+.meals-list-item {
+    border: 5px solid #1a1a1a; 
+    margin: 10px; 
+}
+
+.meals-list-item h1 {
+    font-weight: bold;
+    font-size: 20px;
+    color: #1a1a1a;
+    padding-left: 10px;
+    
+    
+    
+}
+
+.meals-list-item i {
+    float: right;
+    color: #1a1a1a;
+    padding-right: 20px;
+}
+
+.meals-list-item p {
+    font-size: 15px;
+    font-style: italic;
+    color: #4d4d4d;
+    margin-top: -7px;
+    padding-left: 10px;
+    
+}
+
+
+.body-recipes img {
+    
+    
+}
+
+
+
+
